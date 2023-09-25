@@ -1,0 +1,836 @@
+{
+    "hla_a_11_01_vvvgadgvgk": [
+        {
+            "errors": [
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 7ow4 vs holo 7ow6",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 7ow4 vs holo 7ow6"
+            ],
+            "apo": "7ow4",
+            "holo": "7ow6"
+        },
+        {
+            "errors": [
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 7ow4 vs holo 7pb2",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 7ow4 vs holo 7pb2"
+            ],
+            "apo": "7ow4",
+            "holo": "7pb2"
+        }
+    ],
+    "h2_db_sslenfrayv": [
+        {
+            "errors": [
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1wby vs holo 7n4k"
+            ],
+            "apo": "1wby",
+            "holo": "7n4k"
+        },
+        {
+            "errors": [
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1wby vs holo 3pqy"
+            ],
+            "apo": "1wby",
+            "holo": "3pqy"
+        }
+    ],
+    "hla_b_53_01_qasqevknw": [
+        {
+            "errors": [
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 7r7v vs holo 7r80"
+            ],
+            "apo": "7r7v",
+            "holo": "7r80"
+        },
+        {
+            "errors": [
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 7r7x vs holo 7r80"
+            ],
+            "apo": "7r7x",
+            "holo": "7r80"
+        },
+        {
+            "errors": [
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 5im7 vs holo 7r80"
+            ],
+            "apo": "5im7",
+            "holo": "7r80"
+        }
+    ],
+    "hla_b_42_01_tpqdlntml": [
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 4u1h vs holo 7dzn"
+            ],
+            "apo": "4u1h",
+            "holo": "7dzn"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 4u1i vs holo 7dzn"
+            ],
+            "apo": "4u1i",
+            "holo": "7dzn"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 4u1j vs holo 7dzn"
+            ],
+            "apo": "4u1j",
+            "holo": "7dzn"
+        }
+    ],
+    "h2_db_asnenmetm": [
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 4hux vs holo 5swz"
+            ],
+            "apo": "4hux",
+            "holo": "5swz"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1hoc vs holo 5swz"
+            ],
+            "apo": "1hoc",
+            "holo": "5swz"
+        }
+    ],
+    "hla_a_02_01_eaagigiltv": [
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 6tmo",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 6tmo",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 6tmo",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 6tmo",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 6tmo",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 6tmo",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 6tmo",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 6tmo"
+            ],
+            "apo": "2gt9",
+            "holo": "6tmo"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 4qok",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 4qok",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 4qok",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 4qok",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 4qok",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 4qok",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 4qok",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 2gt9 vs holo 4qok"
+            ],
+            "apo": "2gt9",
+            "holo": "4qok"
+        }
+    ],
+    "hla_a_02_01_elagigiltv": [
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 6dkp",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 6dkp",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 6dkp",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 6dkp",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 6dkp",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 6dkp",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 6dkp",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 6dkp",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 6dkp"
+            ],
+            "apo": "1jf1",
+            "holo": "6dkp"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nqk",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nqk",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nqk",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nqk",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nqk",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nqk",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nqk",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nqk",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nqk"
+            ],
+            "apo": "1jf1",
+            "holo": "5nqk"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nht",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nht",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nht",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nht",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nht",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nht",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nht",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nht",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5nht"
+            ],
+            "apo": "1jf1",
+            "holo": "5nht"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5e9d",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5e9d",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5e9d",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5e9d",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5e9d",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5e9d",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5e9d",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5e9d",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 5e9d"
+            ],
+            "apo": "1jf1",
+            "holo": "5e9d"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4l3e",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4l3e",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4l3e",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4l3e",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4l3e",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4l3e",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4l3e",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4l3e",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4l3e"
+            ],
+            "apo": "1jf1",
+            "holo": "4l3e"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4jff",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4jff",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4jff",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4jff",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4jff",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4jff",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4jff",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4jff",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 4jff"
+            ],
+            "apo": "1jf1",
+            "holo": "4jff"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdg",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdg",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdg",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdg",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdg",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdg",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdg",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdg",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdg"
+            ],
+            "apo": "1jf1",
+            "holo": "3qdg"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdm",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdm",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdm",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdm",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdm",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdm",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdm",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdm",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3qdm"
+            ],
+            "apo": "1jf1",
+            "holo": "3qdm"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3hg1",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3hg1",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3hg1",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3hg1",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3hg1",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3hg1",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3hg1",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3hg1",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1jf1 vs holo 3hg1"
+            ],
+            "apo": "1jf1",
+            "holo": "3hg1"
+        }
+    ],
+    "hla_a_02_01_aagigiltv": [
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6d78",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6d78",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6d78",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6d78",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6d78",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6d78",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6d78"
+            ],
+            "apo": "3qfd",
+            "holo": "6d78"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6d78",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6d78",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6d78",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6d78",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6d78",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6d78",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6d78"
+            ],
+            "apo": "2guo",
+            "holo": "6d78"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqa",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqa",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqa",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqa",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqa",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqa",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqa"
+            ],
+            "apo": "3qfd",
+            "holo": "6eqa"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqa",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqa",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqa",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqa",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqa",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqa",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqa"
+            ],
+            "apo": "2guo",
+            "holo": "6eqa"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqb",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqb",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqb",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqb",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqb",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqb",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 3qfd vs holo 6eqb"
+            ],
+            "apo": "3qfd",
+            "holo": "6eqb"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqb",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqb",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqb",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqb",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqb",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqb",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2guo vs holo 6eqb"
+            ],
+            "apo": "2guo",
+            "holo": "6eqb"
+        }
+    ],
+    "hla_a_02_01_klvalginav": [
+        {
+            "errors": [
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5yxn"
+            ],
+            "apo": "3mrm",
+            "holo": "5yxn"
+        },
+        {
+            "errors": [
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5yxu"
+            ],
+            "apo": "3mrm",
+            "holo": "5yxu"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5jzi",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5jzi",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5jzi",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5jzi",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5jzi",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5jzi",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5jzi",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5jzi",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5jzi",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 3mrm vs holo 5jzi"
+            ],
+            "apo": "3mrm",
+            "holo": "5jzi"
+        }
+    ],
+    "hla_b_35_01_iplteeael": [
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 5xos vs holo 6bj2"
+            ],
+            "apo": "5xos",
+            "holo": "6bj2"
+        }
+    ],
+    "hla_a_02_01_slfntiavl": [
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2c7u vs holo 5nmg"
+            ],
+            "apo": "2c7u",
+            "holo": "5nmg"
+        }
+    ],
+    "h2_db_kapynfatm": [
+        {
+            "errors": [
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 7p0a vs holo 5til"
+            ],
+            "apo": "7p0a",
+            "holo": "5til"
+        }
+    ],
+    "h2_db_kavynfatm": [
+        {
+            "errors": [
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 7p0t vs holo 5tje"
+            ],
+            "apo": "7p0t",
+            "holo": "5tje"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1s7q vs holo 5tje",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1s7q vs holo 5tje"
+            ],
+            "apo": "1s7q",
+            "holo": "5tje"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1n59 vs holo 5tje",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1n59 vs holo 5tje"
+            ],
+            "apo": "1n59",
+            "holo": "5tje"
+        }
+    ],
+    "hla_a_02_01_gilgfvftl": [
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5tez"
+            ],
+            "apo": "4nt6",
+            "holo": "5tez"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5tez"
+            ],
+            "apo": "2vll",
+            "holo": "5tez"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5tez"
+            ],
+            "apo": "1hhi",
+            "holo": "5tez"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5jhd",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5jhd",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5jhd",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5jhd",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5jhd",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5jhd",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5jhd",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5jhd",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5jhd"
+            ],
+            "apo": "4nt6",
+            "holo": "5jhd"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5jhd",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5jhd",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5jhd",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5jhd",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5jhd",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5jhd",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5jhd",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5jhd",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5jhd"
+            ],
+            "apo": "2vll",
+            "holo": "5jhd"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5jhd",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5jhd",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5jhd",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5jhd",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5jhd",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5jhd",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5jhd",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5jhd",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5jhd"
+            ],
+            "apo": "1hhi",
+            "holo": "5jhd"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5isz",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5isz",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5isz",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5isz",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5isz",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5isz",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5isz",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5isz",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5isz"
+            ],
+            "apo": "4nt6",
+            "holo": "5isz"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5isz",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5isz",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5isz",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5isz",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5isz",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5isz",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5isz",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5isz",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5isz"
+            ],
+            "apo": "2vll",
+            "holo": "5isz"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5isz",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5isz",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5isz",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5isz",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5isz",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5isz",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5isz",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5isz",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5isz"
+            ],
+            "apo": "1hhi",
+            "holo": "5isz"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 5e6i"
+            ],
+            "apo": "4nt6",
+            "holo": "5e6i"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 5e6i"
+            ],
+            "apo": "2vll",
+            "holo": "5e6i"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 5e6i"
+            ],
+            "apo": "1hhi",
+            "holo": "5e6i"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 2vlk"
+            ],
+            "apo": "4nt6",
+            "holo": "2vlk"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 2vlk"
+            ],
+            "apo": "2vll",
+            "holo": "2vlk"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 2vlk"
+            ],
+            "apo": "1hhi",
+            "holo": "2vlk"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 2vlj"
+            ],
+            "apo": "4nt6",
+            "holo": "2vlj"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 2vlj"
+            ],
+            "apo": "2vll",
+            "holo": "2vlj"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 2vlj"
+            ],
+            "apo": "1hhi",
+            "holo": "2vlj"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 4nt6 vs holo 2vlr"
+            ],
+            "apo": "4nt6",
+            "holo": "2vlr"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2vll vs holo 2vlr"
+            ],
+            "apo": "2vll",
+            "holo": "2vlr"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1hhi vs holo 2vlr"
+            ],
+            "apo": "1hhi",
+            "holo": "2vlr"
+        }
+    ],
+    "hla_a_24_02_rypltfgwcf": [
+        {
+            "errors": [
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 3vxn vs holo 5xov"
+            ],
+            "apo": "3vxn",
+            "holo": "5xov"
+        },
+        {
+            "errors": [
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 5hgh vs holo 3vxr"
+            ],
+            "apo": "5hgh",
+            "holo": "3vxr"
+        },
+        {
+            "errors": [
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 3nfn vs holo 3vxr"
+            ],
+            "apo": "3nfn",
+            "holo": "3vxr"
+        }
+    ],
+    "h2_dd_rgpgrafvti": [
+        {
+            "errors": [
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 3ecb vs holo 5ivx"
+            ],
+            "apo": "3ecb",
+            "holo": "5ivx"
+        },
+        {
+            "errors": [
+                "P1 cannot be compared due to a dataframe shape mismatch. Apo 1bii vs holo 5ivx",
+                "P2 cannot be compared due to a dataframe shape mismatch. Apo 1bii vs holo 5ivx",
+                "P3 cannot be compared due to a dataframe shape mismatch. Apo 1bii vs holo 5ivx",
+                "P4 cannot be compared due to a dataframe shape mismatch. Apo 1bii vs holo 5ivx",
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 1bii vs holo 5ivx",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 1bii vs holo 5ivx",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 1bii vs holo 5ivx",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1bii vs holo 5ivx",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 1bii vs holo 5ivx",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 1bii vs holo 5ivx"
+            ],
+            "apo": "1bii",
+            "holo": "5ivx"
+        }
+    ],
+    "hla_a_02_01_nlvpmvatv": [
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 6q3k vs holo 5d2l"
+            ],
+            "apo": "6q3k",
+            "holo": "5d2l"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2x4r vs holo 5d2l"
+            ],
+            "apo": "2x4r",
+            "holo": "5d2l"
+        },
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 3gso vs holo 5d2l"
+            ],
+            "apo": "3gso",
+            "holo": "5d2l"
+        }
+    ],
+    "hla_b_35_08_hpvgeadyfey": [
+        {
+            "errors": [
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2fz3 vs holo 4pri",
+                "P11 cannot be compared due to a dataframe shape mismatch. Apo 2fz3 vs holo 4pri"
+            ],
+            "apo": "2fz3",
+            "holo": "4pri"
+        },
+        {
+            "errors": [
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 4pri",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 4pri",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 4pri",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 4pri",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 4pri"
+            ],
+            "apo": "2fyy",
+            "holo": "4pri"
+        }
+    ],
+    "hla_b_57_06_kafspevipmf": [
+        {
+            "errors": [
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2bvq vs holo 2ypl",
+                "P10 cannot be compared due to a dataframe shape mismatch. Apo 2bvq vs holo 2ypl",
+                "P11 cannot be compared due to a dataframe shape mismatch. Apo 2bvq vs holo 2ypl"
+            ],
+            "apo": "2bvq",
+            "holo": "2ypl"
+        }
+    ],
+    "hla_b_08_01_flrgraygl": [
+        {
+            "errors": [
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 3x14 vs holo 3sjv"
+            ],
+            "apo": "3x14",
+            "holo": "3sjv"
+        },
+        {
+            "errors": [
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 3x14 vs holo 3ffc"
+            ],
+            "apo": "3x14",
+            "holo": "3ffc"
+        },
+        {
+            "errors": [
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 3x14 vs holo 1mi5"
+            ],
+            "apo": "3x14",
+            "holo": "1mi5"
+        }
+    ],
+    "hla_b_35_01_hpvgeadyfey": [
+        {
+            "errors": [
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2fz3 vs holo 3mv8",
+                "P11 cannot be compared due to a dataframe shape mismatch. Apo 2fz3 vs holo 3mv8"
+            ],
+            "apo": "2fz3",
+            "holo": "3mv8"
+        },
+        {
+            "errors": [
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv8",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv8",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv8",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv8",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv8"
+            ],
+            "apo": "2fyy",
+            "holo": "3mv8"
+        },
+        {
+            "errors": [
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2fz3 vs holo 3mv7",
+                "P11 cannot be compared due to a dataframe shape mismatch. Apo 2fz3 vs holo 3mv7"
+            ],
+            "apo": "2fz3",
+            "holo": "3mv7"
+        },
+        {
+            "errors": [
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv7",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv7",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv7",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv7",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv7"
+            ],
+            "apo": "2fyy",
+            "holo": "3mv7"
+        },
+        {
+            "errors": [
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2fz3 vs holo 3mv9",
+                "P11 cannot be compared due to a dataframe shape mismatch. Apo 2fz3 vs holo 3mv9"
+            ],
+            "apo": "2fz3",
+            "holo": "3mv9"
+        },
+        {
+            "errors": [
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv9",
+                "P6 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv9",
+                "P7 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv9",
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv9",
+                "P9 cannot be compared due to a dataframe shape mismatch. Apo 2fyy vs holo 3mv9"
+            ],
+            "apo": "2fyy",
+            "holo": "3mv9"
+        }
+    ],
+    "hla_b_35_01_eplpqgqltay": [
+        {
+            "errors": [
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 2nw3 vs holo 2nx5"
+            ],
+            "apo": "2nw3",
+            "holo": "2nx5"
+        },
+        {
+            "errors": [
+                "P8 cannot be compared due to a dataframe shape mismatch. Apo 1zsd vs holo 2nx5"
+            ],
+            "apo": "1zsd",
+            "holo": "2nx5"
+        }
+    ],
+    "hla_a_02_01_llfgkpvyv": [
+        {
+            "errors": [
+                "P5 cannot be compared due to a dataframe shape mismatch. Apo 2git vs holo 2gj6"
+            ],
+            "apo": "2git",
+            "holo": "2gj6"
+        }
+    ]
+}

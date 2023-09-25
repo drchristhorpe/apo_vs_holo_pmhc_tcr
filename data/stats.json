@@ -1,0 +1,10 @@
+{
+    "holo": {
+        "complexes": 120,
+        "structures": 202
+    },
+    "apo": {
+        "complexes": 119,
+        "structures": 177
+    }
+}

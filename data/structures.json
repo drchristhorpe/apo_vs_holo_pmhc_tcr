@@ -1,0 +1,2450 @@
+{
+    "hla_a_02_01_ymdgtmsqv": {
+        "allele": "hla_a_02_01",
+        "peptide": "YMDGTMSQV",
+        "holo": [
+            {
+                "pdb_code": "7rk7",
+                "resolution": "2.54"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_24_02_rypltfgw": {
+        "allele": "hla_a_24_02",
+        "peptide": "RYPLTFGW",
+        "holo": [
+            {
+                "pdb_code": "8gvi",
+                "resolution": "3.30"
+            },
+            {
+                "pdb_code": "8gvb",
+                "resolution": "3.20"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5hgb",
+                "resolution": "2.40"
+            },
+            {
+                "pdb_code": "4wu5",
+                "resolution": "2.40"
+            }
+        ]
+    },
+    "hla_a_24_02_rfpltfgw": {
+        "allele": "hla_a_24_02",
+        "peptide": "RFPLTFGW",
+        "holo": [
+            {
+                "pdb_code": "8gvg",
+                "resolution": "3.37"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5hga",
+                "resolution": "2.20"
+            },
+            {
+                "pdb_code": "4wu7",
+                "resolution": "2.30"
+            }
+        ]
+    },
+    "hla_a_24_02_qlprlfpll": {
+        "allele": "hla_a_24_02",
+        "peptide": "QLPRLFPLL",
+        "holo": [
+            {
+                "pdb_code": "7nme",
+                "resolution": "2.20"
+            },
+            {
+                "pdb_code": "7nmf",
+                "resolution": "2.98"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "7nmd",
+                "resolution": "2.25"
+            }
+        ]
+    },
+    "hla_a_24_02_lwmrllpll": {
+        "allele": "hla_a_24_02",
+        "peptide": "LWMRLLPLL",
+        "holo": [
+            {
+                "pdb_code": "7nmg",
+                "resolution": "2.48"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_ylepgpvtv": {
+        "allele": "hla_a_02_01",
+        "peptide": "YLEPGPVTV",
+        "holo": [
+            {
+                "pdb_code": "7phr",
+                "resolution": "3.08"
+            },
+            {
+                "pdb_code": "5eu6",
+                "resolution": "2.02"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_glydgmehl": {
+        "allele": "hla_a_02_01",
+        "peptide": "GLYDGMEHL",
+        "holo": [
+            {
+                "pdb_code": "7qpj",
+                "resolution": "1.54"
+            },
+            {
+                "pdb_code": "7pdw",
+                "resolution": "1.82"
+            },
+            {
+                "pdb_code": "7pbc",
+                "resolution": "2.04"
+            }
+        ],
+        "apo": []
+    },
+    "h2_db_sslcnfrayv": {
+        "allele": "h2_db",
+        "peptide": "SSLCNFRAYV",
+        "holo": [
+            {
+                "pdb_code": "7n5p",
+                "resolution": "2.09"
+            },
+            {
+                "pdb_code": "7n5c",
+                "resolution": "1.87"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "7n5q",
+                "resolution": "1.76"
+            }
+        ]
+    },
+    "hla_a_11_01_vvvgaggvgk": {
+        "allele": "hla_a_11_01",
+        "peptide": "VVVGAGGVGK",
+        "holo": [
+            {
+                "pdb_code": "7ow5",
+                "resolution": "2.58"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "7ow3",
+                "resolution": "2.46"
+            }
+        ]
+    },
+    "hla_a_11_01_vvvgadgvgk": {
+        "allele": "hla_a_11_01",
+        "peptide": "VVVGADGVGK",
+        "holo": [
+            {
+                "pdb_code": "7ow6",
+                "resolution": "2.64"
+            },
+            {
+                "pdb_code": "7pb2",
+                "resolution": "3.41"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "7ow4",
+                "resolution": "1.81"
+            }
+        ]
+    },
+    "h2_db_sslenfrayv": {
+        "allele": "h2_db",
+        "peptide": "SSLENFRAYV",
+        "holo": [
+            {
+                "pdb_code": "7n4k",
+                "resolution": "1.85"
+            },
+            {
+                "pdb_code": "3pqy",
+                "resolution": "3.19"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "1yn6",
+                "resolution": "2.20"
+            },
+            {
+                "pdb_code": "1wby",
+                "resolution": "2.30"
+            }
+        ]
+    },
+    "hla_b_53_01_qasqevknw": {
+        "allele": "hla_b_53_01",
+        "peptide": "QASQEVKNW",
+        "holo": [
+            {
+                "pdb_code": "7r80",
+                "resolution": "2.90"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "7r7v",
+                "resolution": "1.60"
+            },
+            {
+                "pdb_code": "7r7x",
+                "resolution": "2.10"
+            },
+            {
+                "pdb_code": "5im7",
+                "resolution": "2.50"
+            }
+        ]
+    },
+    "h2_db_ygfrnvvhi": {
+        "allele": "h2_db",
+        "peptide": "YGFRNVVHI",
+        "holo": [
+            {
+                "pdb_code": "7na5",
+                "resolution": "2.50"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "7n9j",
+                "resolution": "1.74"
+            }
+        ]
+    },
+    "hla_c_05_01_gadgvgksl": {
+        "allele": "hla_c_05_01",
+        "peptide": "GADGVGKSL",
+        "holo": [
+            {
+                "pdb_code": "7su9",
+                "resolution": "1.99"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_ylqprtfll": {
+        "allele": "hla_a_02_01",
+        "peptide": "YLQPRTFLL",
+        "holo": [
+            {
+                "pdb_code": "7pbe",
+                "resolution": "3.00"
+            },
+            {
+                "pdb_code": "7rtr",
+                "resolution": "2.60"
+            },
+            {
+                "pdb_code": "7n6e",
+                "resolution": "3.20"
+            },
+            {
+                "pdb_code": "7n1f",
+                "resolution": "2.39"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "7rtd",
+                "resolution": "2.05"
+            },
+            {
+                "pdb_code": "7n1a",
+                "resolution": "2.06"
+            },
+            {
+                "pdb_code": "7p3d",
+                "resolution": "1.67"
+            },
+            {
+                "pdb_code": "7n6d",
+                "resolution": "2.30"
+            },
+            {
+                "pdb_code": "7mkb",
+                "resolution": "1.90"
+            }
+        ]
+    },
+    "hla_a_03_01_alhggwttk": {
+        "allele": "hla_a_03_01",
+        "peptide": "ALHGGWTTK",
+        "holo": [
+            {
+                "pdb_code": "7rrg",
+                "resolution": "2.12"
+            },
+            {
+                "pdb_code": "7l1d",
+                "resolution": "3.11"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "7l1c",
+                "resolution": "1.96"
+            }
+        ]
+    },
+    "hla_a_02_01_hmtevvrhc": {
+        "allele": "hla_a_02_01",
+        "peptide": "HMTEVVRHC",
+        "holo": [
+            {
+                "pdb_code": "7rm4",
+                "resolution": "3.33"
+            },
+            {
+                "pdb_code": "6vrn",
+                "resolution": "2.46"
+            },
+            {
+                "pdb_code": "6vrm",
+                "resolution": "2.61"
+            },
+            {
+                "pdb_code": "6vqo",
+                "resolution": "3.00"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6vr5",
+                "resolution": "2.38"
+            }
+        ]
+    },
+    "hla_e_01_03_rmyspvsil": {
+        "allele": "hla_e_01_03",
+        "peptide": "RMYSPVSIL",
+        "holo": [
+            {
+                "pdb_code": "7ndu",
+                "resolution": "2.90"
+            },
+            {
+                "pdb_code": "7ndq",
+                "resolution": "2.55"
+            }
+        ],
+        "apo": []
+    },
+    "hla_e_01_03_rlpakapl": {
+        "allele": "hla_e_01_03",
+        "peptide": "RLPAKAPL",
+        "holo": [
+            {
+                "pdb_code": "6zkz",
+                "resolution": "2.30"
+            },
+            {
+                "pdb_code": "6zky",
+                "resolution": "2.65"
+            }
+        ],
+        "apo": []
+    },
+    "hla_b_81_01_tpqdlntml": {
+        "allele": "hla_b_81_01",
+        "peptide": "TPQDLNTML",
+        "holo": [
+            {
+                "pdb_code": "7dzm",
+                "resolution": "2.25"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "4u1h",
+                "resolution": "1.59"
+            },
+            {
+                "pdb_code": "4u1i",
+                "resolution": "1.92"
+            },
+            {
+                "pdb_code": "4u1j",
+                "resolution": "1.38"
+            }
+        ]
+    },
+    "hla_e_01_03_vmaprtlil": {
+        "allele": "hla_e_01_03",
+        "peptide": "VMAPRTLIL",
+        "holo": [
+            {
+                "pdb_code": "7ndt",
+                "resolution": "3.00"
+            }
+        ],
+        "apo": []
+    },
+    "hla_b_42_01_tpqdlntml": {
+        "allele": "hla_b_42_01",
+        "peptide": "TPQDLNTML",
+        "holo": [
+            {
+                "pdb_code": "7dzn",
+                "resolution": "2.63"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "4u1h",
+                "resolution": "1.59"
+            },
+            {
+                "pdb_code": "4u1i",
+                "resolution": "1.92"
+            },
+            {
+                "pdb_code": "4u1j",
+                "resolution": "1.38"
+            }
+        ]
+    },
+    "hla_e_01_03_rlpakapllgcg": {
+        "allele": "hla_e_01_03",
+        "peptide": "RLPAKAPLLGCG",
+        "holo": [
+            {
+                "pdb_code": "6zkx",
+                "resolution": "2.17"
+            }
+        ],
+        "apo": []
+    },
+    "hla_e_01_03_rlpakapll": {
+        "allele": "hla_e_01_03",
+        "peptide": "RLPAKAPLL",
+        "holo": [
+            {
+                "pdb_code": "6zkw",
+                "resolution": "2.26"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6gh1",
+                "resolution": "2.10"
+            }
+        ]
+    },
+    "hla_a_02_01_rlqslqtyv": {
+        "allele": "hla_a_02_01",
+        "peptide": "RLQSLQTYV",
+        "holo": [
+            {
+                "pdb_code": "7n1e",
+                "resolution": "2.30"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "7n1b",
+                "resolution": "2.81"
+            }
+        ]
+    },
+    "h2_db_asnenmetm": {
+        "allele": "h2_db",
+        "peptide": "ASNENMETM",
+        "holo": [
+            {
+                "pdb_code": "7jwi",
+                "resolution": "3.02"
+            },
+            {
+                "pdb_code": "7jwj",
+                "resolution": "3.25"
+            },
+            {
+                "pdb_code": "5swz",
+                "resolution": "2.65"
+            },
+            {
+                "pdb_code": "5sws",
+                "resolution": "2.86"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "4hux",
+                "resolution": "2.20"
+            },
+            {
+                "pdb_code": "1hoc",
+                "resolution": "2.40"
+            }
+        ]
+    },
+    "mamu_b_051_02_ggai": {
+        "allele": "mamu_b_051_02",
+        "peptide": "GGAI",
+        "holo": [
+            {
+                "pdb_code": "7byd",
+                "resolution": "2.80"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_imdqvpfsv": {
+        "allele": "hla_a_02_01",
+        "peptide": "IMDQVPFSV",
+        "holo": [
+            {
+                "pdb_code": "6vm9",
+                "resolution": "2.90"
+            },
+            {
+                "pdb_code": "6vm8",
+                "resolution": "2.41"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "1tvh",
+                "resolution": "1.80"
+            }
+        ]
+    },
+    "hla_a_02_01_itdqvpfsv": {
+        "allele": "hla_a_02_01",
+        "peptide": "ITDQVPFSV",
+        "holo": [
+            {
+                "pdb_code": "6vm7",
+                "resolution": "2.41"
+            },
+            {
+                "pdb_code": "6vma",
+                "resolution": "2.75"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "1tvb",
+                "resolution": "1.80"
+            }
+        ]
+    },
+    "hla_a_02_01_ildqvpfsv": {
+        "allele": "hla_a_02_01",
+        "peptide": "ILDQVPFSV",
+        "holo": [
+            {
+                "pdb_code": "6vmc",
+                "resolution": "2.85"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_llfgypvyv": {
+        "allele": "hla_a_02_01",
+        "peptide": "LLFGYPVYV",
+        "holo": [
+            {
+                "pdb_code": "6uz1",
+                "resolution": "3.14"
+            },
+            {
+                "pdb_code": "4ftv",
+                "resolution": "2.74"
+            },
+            {
+                "pdb_code": "1bd2",
+                "resolution": "2.50"
+            },
+            {
+                "pdb_code": "1ao7",
+                "resolution": "2.60"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3ixa",
+                "resolution": "2.10"
+            },
+            {
+                "pdb_code": "2av1",
+                "resolution": "1.95"
+            },
+            {
+                "pdb_code": "2av7",
+                "resolution": "2.05"
+            },
+            {
+                "pdb_code": "1duz",
+                "resolution": "1.80"
+            },
+            {
+                "pdb_code": "1hhk",
+                "resolution": "2.50"
+            }
+        ]
+    },
+    "hla_a_02_01_eaagigiltv": {
+        "allele": "hla_a_02_01",
+        "peptide": "EAAGIGILTV",
+        "holo": [
+            {
+                "pdb_code": "6tmo",
+                "resolution": "2.10"
+            },
+            {
+                "pdb_code": "4qok",
+                "resolution": "3.00"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "2gt9",
+                "resolution": "1.75"
+            }
+        ]
+    },
+    "hla_a_02_06_kqwlvwlfl": {
+        "allele": "hla_a_02_06",
+        "peptide": "KQWLVWLFL",
+        "holo": [
+            {
+                "pdb_code": "6uk4",
+                "resolution": "2.70"
+            },
+            {
+                "pdb_code": "6p64",
+                "resolution": "3.05"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6ujo",
+                "resolution": "2.25"
+            }
+        ]
+    },
+    "hla_a_02_06_kqwlvwlll": {
+        "allele": "hla_a_02_06",
+        "peptide": "KQWLVWLLL",
+        "holo": [
+            {
+                "pdb_code": "6uk2",
+                "resolution": "3.14"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6ujq",
+                "resolution": "2.55"
+            }
+        ]
+    },
+    "hla_b_07_02_rppifirrl": {
+        "allele": "hla_b_07_02",
+        "peptide": "RPPIFIRRL",
+        "holo": [
+            {
+                "pdb_code": "6vmx",
+                "resolution": "3.10"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5wmo",
+                "resolution": "1.62"
+            }
+        ]
+    },
+    "hla_a_02_01_gvydgrehtv": {
+        "allele": "hla_a_02_01",
+        "peptide": "GVYDGREHTV",
+        "holo": [
+            {
+                "pdb_code": "6tro",
+                "resolution": "3.00"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "1i4f",
+                "resolution": "1.40"
+            }
+        ]
+    },
+    "hla_c_08_02_gadgvgksa": {
+        "allele": "hla_c_08_02",
+        "peptide": "GADGVGKSA",
+        "holo": [
+            {
+                "pdb_code": "6ulr",
+                "resolution": "3.20"
+            },
+            {
+                "pdb_code": "6uln",
+                "resolution": "2.01"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6uli",
+                "resolution": "1.88"
+            },
+            {
+                "pdb_code": "6jtp",
+                "resolution": "1.90"
+            }
+        ]
+    },
+    "hla_c_08_02_gadgvgksal": {
+        "allele": "hla_c_08_02",
+        "peptide": "GADGVGKSAL",
+        "holo": [
+            {
+                "pdb_code": "6uon",
+                "resolution": "3.50"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6ulk",
+                "resolution": "1.90"
+            },
+            {
+                "pdb_code": "6jto",
+                "resolution": "1.70"
+            },
+            {
+                "pdb_code": "6jtn",
+                "resolution": "1.90"
+            }
+        ]
+    },
+    "hla_a_02_01_rmfpnapyl": {
+        "allele": "hla_a_02_01",
+        "peptide": "RMFPNAPYL",
+        "holo": [
+            {
+                "pdb_code": "6rsy",
+                "resolution": "2.95"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3hpj",
+                "resolution": "2.00"
+            }
+        ]
+    },
+    "hla_a_02_01_slskildtv": {
+        "allele": "hla_a_02_01",
+        "peptide": "SLSKILDTV",
+        "holo": [
+            {
+                "pdb_code": "6r2l",
+                "resolution": "2.30"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_sllmwitqv": {
+        "allele": "hla_a_02_01",
+        "peptide": "SLLMWITQV",
+        "holo": [
+            {
+                "pdb_code": "6rp9",
+                "resolution": "3.12"
+            },
+            {
+                "pdb_code": "6rpb",
+                "resolution": "2.50"
+            },
+            {
+                "pdb_code": "6rpa",
+                "resolution": "2.56"
+            },
+            {
+                "pdb_code": "6q3s",
+                "resolution": "2.50"
+            },
+            {
+                "pdb_code": "2bnq",
+                "resolution": "1.70"
+            }
+        ],
+        "apo": []
+    },
+    "h2_db_kapydyapi": {
+        "allele": "h2_db",
+        "peptide": "KAPYDYAPI",
+        "holo": [
+            {
+                "pdb_code": "6g9q",
+                "resolution": "1.89"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6g9r",
+                "resolution": "2.70"
+            }
+        ]
+    },
+    "hla_a_02_01_elagigiltv": {
+        "allele": "hla_a_02_01",
+        "peptide": "ELAGIGILTV",
+        "holo": [
+            {
+                "pdb_code": "6dkp",
+                "resolution": "2.97"
+            },
+            {
+                "pdb_code": "5nqk",
+                "resolution": "3.25"
+            },
+            {
+                "pdb_code": "5nht",
+                "resolution": "3.20"
+            },
+            {
+                "pdb_code": "5e9d",
+                "resolution": "2.51"
+            },
+            {
+                "pdb_code": "4l3e",
+                "resolution": "2.56"
+            },
+            {
+                "pdb_code": "4jff",
+                "resolution": "2.43"
+            },
+            {
+                "pdb_code": "3qdg",
+                "resolution": "2.69"
+            },
+            {
+                "pdb_code": "3qdm",
+                "resolution": "2.80"
+            },
+            {
+                "pdb_code": "3hg1",
+                "resolution": "3.00"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "1jf1",
+                "resolution": "1.85"
+            }
+        ]
+    },
+    "hla_a_02_01_aagigiltv": {
+        "allele": "hla_a_02_01",
+        "peptide": "AAGIGILTV",
+        "holo": [
+            {
+                "pdb_code": "6d78",
+                "resolution": "2.35"
+            },
+            {
+                "pdb_code": "6eqa",
+                "resolution": "3.16"
+            },
+            {
+                "pdb_code": "6eqb",
+                "resolution": "2.81"
+            },
+            {
+                "pdb_code": "3qeq",
+                "resolution": "2.59"
+            },
+            {
+                "pdb_code": "3qdj",
+                "resolution": "2.30"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3qfd",
+                "resolution": "1.68"
+            },
+            {
+                "pdb_code": "2guo",
+                "resolution": "1.90"
+            }
+        ]
+    },
+    "hla_b_37_01_fedlrvlsf": {
+        "allele": "hla_b_37_01",
+        "peptide": "FEDLRVLSF",
+        "holo": [
+            {
+                "pdb_code": "6mtm",
+                "resolution": "3.00"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6mtl",
+                "resolution": "1.35"
+            },
+            {
+                "pdb_code": "6mt6",
+                "resolution": "1.31"
+            },
+            {
+                "pdb_code": "6mt3",
+                "resolution": "1.21"
+            }
+        ]
+    },
+    "hla_a_02_01_klvalginav": {
+        "allele": "hla_a_02_01",
+        "peptide": "KLVALGINAV",
+        "holo": [
+            {
+                "pdb_code": "5yxn",
+                "resolution": "2.03"
+            },
+            {
+                "pdb_code": "5yxu",
+                "resolution": "2.70"
+            },
+            {
+                "pdb_code": "5jzi",
+                "resolution": "2.50"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3mrm",
+                "resolution": "1.90"
+            }
+        ]
+    },
+    "hla_a_02_01_mmwdrglgmm": {
+        "allele": "hla_a_02_01",
+        "peptide": "MMWDRGLGMM",
+        "holo": [
+            {
+                "pdb_code": "6amu",
+                "resolution": "2.15"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6amt",
+                "resolution": "2.50"
+            }
+        ]
+    },
+    "hla_a_02_01_smlgigivpv": {
+        "allele": "hla_a_02_01",
+        "peptide": "SMLGIGIVPV",
+        "holo": [
+            {
+                "pdb_code": "6am5",
+                "resolution": "2.39"
+            }
+        ],
+        "apo": []
+    },
+    "hla_b_35_01_iplteeael": {
+        "allele": "hla_b_35_01",
+        "peptide": "IPLTEEAEL",
+        "holo": [
+            {
+                "pdb_code": "6bj3",
+                "resolution": "1.90"
+            },
+            {
+                "pdb_code": "6bj2",
+                "resolution": "3.35"
+            },
+            {
+                "pdb_code": "5xot",
+                "resolution": "2.79"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5xos",
+                "resolution": "1.70"
+            }
+        ]
+    },
+    "hla_b_35_01_vpltedael": {
+        "allele": "hla_b_35_01",
+        "peptide": "VPLTEDAEL",
+        "holo": [
+            {
+                "pdb_code": "6bj8",
+                "resolution": "1.75"
+            }
+        ],
+        "apo": []
+    },
+    "hla_b_07_02_aprgphggaasgl": {
+        "allele": "hla_b_07_02",
+        "peptide": "APRGPHGGAASGL",
+        "holo": [
+            {
+                "pdb_code": "6avf",
+                "resolution": "2.03"
+            },
+            {
+                "pdb_code": "6avg",
+                "resolution": "2.60"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6at5",
+                "resolution": "1.50"
+            }
+        ]
+    },
+    "h2_db_kavanfatm": {
+        "allele": "h2_db",
+        "peptide": "KAVANFATM",
+        "holo": [
+            {
+                "pdb_code": "5m00",
+                "resolution": "1.95"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3quk",
+                "resolution": "2.41"
+            }
+        ]
+    },
+    "h2_db_kapfnfatm": {
+        "allele": "h2_db",
+        "peptide": "KAPFNFATM",
+        "holo": [
+            {
+                "pdb_code": "5m02",
+                "resolution": "1.75"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3tby",
+                "resolution": "2.50"
+            }
+        ]
+    },
+    "hla_a_02_01_slyntiatl": {
+        "allele": "hla_a_02_01",
+        "peptide": "SLYNTIATL",
+        "holo": [
+            {
+                "pdb_code": "5nmf",
+                "resolution": "2.89"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5nmh",
+                "resolution": "1.55"
+            },
+            {
+                "pdb_code": "1t20",
+                "resolution": "2.20"
+            }
+        ]
+    },
+    "hla_a_02_01_slfntiavl": {
+        "allele": "hla_a_02_01",
+        "peptide": "SLFNTIAVL",
+        "holo": [
+            {
+                "pdb_code": "5nmg",
+                "resolution": "2.75"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5nmk",
+                "resolution": "1.66"
+            },
+            {
+                "pdb_code": "2c7u",
+                "resolution": "2.38"
+            },
+            {
+                "pdb_code": "1t1w",
+                "resolution": "2.20"
+            }
+        ]
+    },
+    "h2_db_sqllnakyl": {
+        "allele": "h2_db",
+        "peptide": "SQLLNAKYL",
+        "holo": [
+            {
+                "pdb_code": "5wlg",
+                "resolution": "2.10"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5wli",
+                "resolution": "2.20"
+            }
+        ]
+    },
+    "hla_a_02_01_slyntvatl": {
+        "allele": "hla_a_02_01",
+        "peptide": "SLYNTVATL",
+        "holo": [
+            {
+                "pdb_code": "5nme",
+                "resolution": "2.94"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "2v2w",
+                "resolution": "1.60"
+            },
+            {
+                "pdb_code": "1t22",
+                "resolution": "2.20"
+            },
+            {
+                "pdb_code": "1t21",
+                "resolution": "2.19"
+            }
+        ]
+    },
+    "h2_db_kapynfatm": {
+        "allele": "h2_db",
+        "peptide": "KAPYNFATM",
+        "holo": [
+            {
+                "pdb_code": "5til",
+                "resolution": "2.83"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "7p0a",
+                "resolution": "2.43"
+            },
+            {
+                "pdb_code": "4nsk",
+                "resolution": "2.60"
+            }
+        ]
+    },
+    "h2_db_kavynfatm": {
+        "allele": "h2_db",
+        "peptide": "KAVYNFATM",
+        "holo": [
+            {
+                "pdb_code": "5tje",
+                "resolution": "3.20"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "7p0t",
+                "resolution": "2.60"
+            },
+            {
+                "pdb_code": "2f74",
+                "resolution": "2.70"
+            },
+            {
+                "pdb_code": "1s7u",
+                "resolution": "2.20"
+            },
+            {
+                "pdb_code": "1s7q",
+                "resolution": "1.99"
+            },
+            {
+                "pdb_code": "1n5a",
+                "resolution": "2.85"
+            },
+            {
+                "pdb_code": "1n59",
+                "resolution": "2.95"
+            },
+            {
+                "pdb_code": "1ffn",
+                "resolution": "2.70"
+            }
+        ]
+    },
+    "h2_db_kapanfatm": {
+        "allele": "h2_db",
+        "peptide": "KAPANFATM",
+        "holo": [
+            {
+                "pdb_code": "5m01",
+                "resolution": "1.95"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3tbs",
+                "resolution": "2.49"
+            }
+        ]
+    },
+    "hla_e_01_01_vmaprtlil": {
+        "allele": "hla_e_01_01",
+        "peptide": "VMAPRTLIL",
+        "holo": [
+            {
+                "pdb_code": "5w1v",
+                "resolution": "3.31"
+            },
+            {
+                "pdb_code": "2esv",
+                "resolution": "2.60"
+            }
+        ],
+        "apo": []
+    },
+    "hla_e_01_01_vmaprtlvl": {
+        "allele": "hla_e_01_01",
+        "peptide": "VMAPRTLVL",
+        "holo": [
+            {
+                "pdb_code": "5w1w",
+                "resolution": "3.10"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_gilgfvftl": {
+        "allele": "hla_a_02_01",
+        "peptide": "GILGFVFTL",
+        "holo": [
+            {
+                "pdb_code": "5tez",
+                "resolution": "1.70"
+            },
+            {
+                "pdb_code": "5jhd",
+                "resolution": "2.46"
+            },
+            {
+                "pdb_code": "5isz",
+                "resolution": "2.06"
+            },
+            {
+                "pdb_code": "5euo",
+                "resolution": "2.10"
+            },
+            {
+                "pdb_code": "5e6i",
+                "resolution": "4.00"
+            },
+            {
+                "pdb_code": "2vlk",
+                "resolution": "2.50"
+            },
+            {
+                "pdb_code": "2vlj",
+                "resolution": "2.40"
+            },
+            {
+                "pdb_code": "2vlr",
+                "resolution": "2.30"
+            },
+            {
+                "pdb_code": "1oga",
+                "resolution": "1.40"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "4nt6",
+                "resolution": "1.84"
+            },
+            {
+                "pdb_code": "2vll",
+                "resolution": "1.60"
+            },
+            {
+                "pdb_code": "1hhi",
+                "resolution": "2.50"
+            }
+        ]
+    },
+    "hla_a_11_01_gtsgspiinr": {
+        "allele": "hla_a_11_01",
+        "peptide": "GTSGSPIINR",
+        "holo": [
+            {
+                "pdb_code": "5wkh",
+                "resolution": "3.20"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5wjn",
+                "resolution": "2.85"
+            }
+        ]
+    },
+    "hla_a_11_01_gtsgspivnr": {
+        "allele": "hla_a_11_01",
+        "peptide": "GTSGSPIVNR",
+        "holo": [
+            {
+                "pdb_code": "5wkf",
+                "resolution": "2.95"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5wjl",
+                "resolution": "3.15"
+            }
+        ]
+    },
+    "hla_a_24_02_rypltfgwcf": {
+        "allele": "hla_a_24_02",
+        "peptide": "RYPLTFGWCF",
+        "holo": [
+            {
+                "pdb_code": "5xov",
+                "resolution": "2.68"
+            },
+            {
+                "pdb_code": "3vxr",
+                "resolution": "2.40"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5hgh",
+                "resolution": "2.39"
+            },
+            {
+                "pdb_code": "3vxn",
+                "resolution": "1.95"
+            },
+            {
+                "pdb_code": "3nfn",
+                "resolution": "2.39"
+            }
+        ]
+    },
+    "h2_dd_rgpgrafvti": {
+        "allele": "h2_dd",
+        "peptide": "RGPGRAFVTI",
+        "holo": [
+            {
+                "pdb_code": "5ivx",
+                "resolution": "2.10"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6npr",
+                "resolution": "2.37"
+            },
+            {
+                "pdb_code": "3ecb",
+                "resolution": "1.70"
+            },
+            {
+                "pdb_code": "1ddh",
+                "resolution": "3.10"
+            },
+            {
+                "pdb_code": "1bii",
+                "resolution": "2.40"
+            }
+        ]
+    },
+    "hla_a_02_01_ilakflhwl": {
+        "allele": "hla_a_02_01",
+        "peptide": "ILAKFLHWL",
+        "holo": [
+            {
+                "pdb_code": "5men",
+                "resolution": "2.81"
+            },
+            {
+                "pdb_code": "4mnq",
+                "resolution": "2.74"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_aqwgpdpaaa": {
+        "allele": "hla_a_02_01",
+        "peptide": "AQWGPDPAAA",
+        "holo": [
+            {
+                "pdb_code": "5hyj",
+                "resolution": "3.06"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5c0d",
+                "resolution": "1.68"
+            }
+        ]
+    },
+    "hla_a_02_01_rqfgpdfpti": {
+        "allele": "hla_a_02_01",
+        "peptide": "RQFGPDFPTI",
+        "holo": [
+            {
+                "pdb_code": "5c0b",
+                "resolution": "2.03"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5c0i",
+                "resolution": "1.53"
+            }
+        ]
+    },
+    "hla_a_02_01_mvwgpdplyv": {
+        "allele": "hla_a_02_01",
+        "peptide": "MVWGPDPLYV",
+        "holo": [
+            {
+                "pdb_code": "5c0a",
+                "resolution": "2.46"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5n1y",
+                "resolution": "1.39"
+            }
+        ]
+    },
+    "hla_a_02_01_rqwgpdpaav": {
+        "allele": "hla_a_02_01",
+        "peptide": "RQWGPDPAAV",
+        "holo": [
+            {
+                "pdb_code": "5c08",
+                "resolution": "2.33"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5c0f",
+                "resolution": "1.46"
+            }
+        ]
+    },
+    "hla_a_02_01_rqfgpdwiva": {
+        "allele": "hla_a_02_01",
+        "peptide": "RQFGPDWIVA",
+        "holo": [
+            {
+                "pdb_code": "5c0c",
+                "resolution": "1.97"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5c0j",
+                "resolution": "1.64"
+            }
+        ]
+    },
+    "hla_a_02_01_yqfgpdfpia": {
+        "allele": "hla_a_02_01",
+        "peptide": "YQFGPDFPIA",
+        "holo": [
+            {
+                "pdb_code": "5c07",
+                "resolution": "2.11"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5c0e",
+                "resolution": "1.49"
+            }
+        ]
+    },
+    "hla_a_02_01_ylggpdfpti": {
+        "allele": "hla_a_02_01",
+        "peptide": "YLGGPDFPTI",
+        "holo": [
+            {
+                "pdb_code": "5c09",
+                "resolution": "2.48"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5c0g",
+                "resolution": "1.37"
+            }
+        ]
+    },
+    "hla_a_02_01_gilglvftl": {
+        "allele": "hla_a_02_01",
+        "peptide": "GILGLVFTL",
+        "holo": [
+            {
+                "pdb_code": "5hhm",
+                "resolution": "2.50"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5hhn",
+                "resolution": "2.03"
+            }
+        ]
+    },
+    "hla_a_02_01_gilefvftl": {
+        "allele": "hla_a_02_01",
+        "peptide": "GILEFVFTL",
+        "holo": [
+            {
+                "pdb_code": "5hho",
+                "resolution": "2.95"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5hhp",
+                "resolution": "1.90"
+            }
+        ]
+    },
+    "hla_a_01_01_esdpivaqy": {
+        "allele": "hla_a_01_01",
+        "peptide": "ESDPIVAQY",
+        "holo": [
+            {
+                "pdb_code": "5bs0",
+                "resolution": "2.40"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_01_01_evdpighly": {
+        "allele": "hla_a_01_01",
+        "peptide": "EVDPIGHLY",
+        "holo": [
+            {
+                "pdb_code": "5brz",
+                "resolution": "2.62"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_nlvpmvatv": {
+        "allele": "hla_a_02_01",
+        "peptide": "NLVPMVATV",
+        "holo": [
+            {
+                "pdb_code": "5d2l",
+                "resolution": "3.51"
+            },
+            {
+                "pdb_code": "5d2n",
+                "resolution": "2.10"
+            },
+            {
+                "pdb_code": "3gsn",
+                "resolution": "2.80"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6q3k",
+                "resolution": "1.50"
+            },
+            {
+                "pdb_code": "2x4r",
+                "resolution": "2.30"
+            },
+            {
+                "pdb_code": "3gso",
+                "resolution": "1.60"
+            }
+        ]
+    },
+    "hla_b_35_01_ipsinvhhy": {
+        "allele": "hla_b_35_01",
+        "peptide": "IPSINVHHY",
+        "holo": [
+            {
+                "pdb_code": "4qrr",
+                "resolution": "3.00"
+            }
+        ],
+        "apo": []
+    },
+    "hla_b_08_01_hskkkcdel": {
+        "allele": "hla_b_08_01",
+        "peptide": "HSKKKCDEL",
+        "holo": [
+            {
+                "pdb_code": "4qrp",
+                "resolution": "2.90"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "4qrq",
+                "resolution": "1.70"
+            }
+        ]
+    },
+    "hla_b_51_01_taftipsi": {
+        "allele": "hla_b_51_01",
+        "peptide": "TAFTIPSI",
+        "holo": [
+            {
+                "pdb_code": "4mji",
+                "resolution": "2.99"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3w39",
+                "resolution": "3.10"
+            },
+            {
+                "pdb_code": "1e28",
+                "resolution": "3.00"
+            }
+        ]
+    },
+    "hla_b_35_01_hpvgdadyfey": {
+        "allele": "hla_b_35_01",
+        "peptide": "HPVGDADYFEY",
+        "holo": [
+            {
+                "pdb_code": "4prh",
+                "resolution": "2.50"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "4prd",
+                "resolution": "1.75"
+            },
+            {
+                "pdb_code": "4pr5",
+                "resolution": "1.80"
+            }
+        ]
+    },
+    "hla_b_35_01_hpvgqadyfey": {
+        "allele": "hla_b_35_01",
+        "peptide": "HPVGQADYFEY",
+        "holo": [
+            {
+                "pdb_code": "4prp",
+                "resolution": "2.50"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "4pre",
+                "resolution": "1.65"
+            },
+            {
+                "pdb_code": "4pra",
+                "resolution": "1.85"
+            }
+        ]
+    },
+    "hla_b_35_08_hpvgeadyfey": {
+        "allele": "hla_b_35_08",
+        "peptide": "HPVGEADYFEY",
+        "holo": [
+            {
+                "pdb_code": "4pri",
+                "resolution": "2.40"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "2fz3",
+                "resolution": "1.90"
+            },
+            {
+                "pdb_code": "2fyy",
+                "resolution": "1.50"
+            }
+        ]
+    },
+    "hla_a_24_02_rfpltfgwcf": {
+        "allele": "hla_a_24_02",
+        "peptide": "RFPLTFGWCF",
+        "holo": [
+            {
+                "pdb_code": "3w0w",
+                "resolution": "2.60"
+            },
+            {
+                "pdb_code": "3vxu",
+                "resolution": "2.70"
+            },
+            {
+                "pdb_code": "3vxm",
+                "resolution": "2.50"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "5hgd",
+                "resolution": "2.07"
+            },
+            {
+                "pdb_code": "3vxo",
+                "resolution": "2.61"
+            }
+        ]
+    },
+    "hla_a_24_02_rypltlgwcf": {
+        "allele": "hla_a_24_02",
+        "peptide": "RYPLTLGWCF",
+        "holo": [
+            {
+                "pdb_code": "3vxs",
+                "resolution": "1.80"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3vxp",
+                "resolution": "2.50"
+            }
+        ]
+    },
+    "hla_a_02_01_elaaigiltv": {
+        "allele": "hla_a_02_01",
+        "peptide": "ELAAIGILTV",
+        "holo": [
+            {
+                "pdb_code": "4jfd",
+                "resolution": "2.46"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "4jfp",
+                "resolution": "1.91"
+            }
+        ]
+    },
+    "hla_a_02_01_elagigaltv": {
+        "allele": "hla_a_02_01",
+        "peptide": "ELAGIGALTV",
+        "holo": [
+            {
+                "pdb_code": "4jfe",
+                "resolution": "2.70"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_algigiltv": {
+        "allele": "hla_a_02_01",
+        "peptide": "ALGIGILTV",
+        "holo": [
+            {
+                "pdb_code": "4eup",
+                "resolution": "2.88"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "2gtz",
+                "resolution": "1.70"
+            },
+            {
+                "pdb_code": "1jht",
+                "resolution": "2.15"
+            }
+        ]
+    },
+    "hla_b_35_08_lpeplpqgqltay": {
+        "allele": "hla_b_35_08",
+        "peptide": "LPEPLPQGQLTAY",
+        "holo": [
+            {
+                "pdb_code": "4jrx",
+                "resolution": "2.30"
+            },
+            {
+                "pdb_code": "4jry",
+                "resolution": "2.80"
+            },
+            {
+                "pdb_code": "2ak4",
+                "resolution": "2.50"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3vfp",
+                "resolution": "1.85"
+            },
+            {
+                "pdb_code": "3vfn",
+                "resolution": "1.50"
+            },
+            {
+                "pdb_code": "3vfo",
+                "resolution": "1.70"
+            },
+            {
+                "pdb_code": "3vfm",
+                "resolution": "1.90"
+            },
+            {
+                "pdb_code": "3kww",
+                "resolution": "2.18"
+            },
+            {
+                "pdb_code": "1zhk",
+                "resolution": "1.60"
+            },
+            {
+                "pdb_code": "1zhl",
+                "resolution": "1.50"
+            }
+        ]
+    },
+    "hla_b_27_05_krwiilglnk": {
+        "allele": "hla_b_27_05",
+        "peptide": "KRWIILGLNK",
+        "holo": [
+            {
+                "pdb_code": "4g8g",
+                "resolution": "2.40"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "6pyl",
+                "resolution": "1.52"
+            },
+            {
+                "pdb_code": "4g9d",
+                "resolution": "1.60"
+            },
+            {
+                "pdb_code": "2bss",
+                "resolution": "2.00"
+            }
+        ]
+    },
+    "hla_b_27_05_krwiimglnk": {
+        "allele": "hla_b_27_05",
+        "peptide": "KRWIIMGLNK",
+        "holo": [
+            {
+                "pdb_code": "4g9f",
+                "resolution": "1.90"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "4g8i",
+                "resolution": "1.60"
+            }
+        ]
+    },
+    "hla_b_57_06_kafspevipmf": {
+        "allele": "hla_b_57_06",
+        "peptide": "KAFSPEVIPMF",
+        "holo": [
+            {
+                "pdb_code": "2ypl",
+                "resolution": "2.40"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "2ypk",
+                "resolution": "1.95"
+            },
+            {
+                "pdb_code": "2bvo",
+                "resolution": "1.65"
+            },
+            {
+                "pdb_code": "2bvq",
+                "resolution": "2.00"
+            }
+        ]
+    },
+    "hla_b_08_01_flrgraygl": {
+        "allele": "hla_b_08_01",
+        "peptide": "FLRGRAYGL",
+        "holo": [
+            {
+                "pdb_code": "3sjv",
+                "resolution": "3.10"
+            },
+            {
+                "pdb_code": "3ffc",
+                "resolution": "2.80"
+            },
+            {
+                "pdb_code": "1mi5",
+                "resolution": "2.50"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3x14",
+                "resolution": "2.00"
+            },
+            {
+                "pdb_code": "3x13",
+                "resolution": "1.80"
+            },
+            {
+                "pdb_code": "3sko",
+                "resolution": "1.60"
+            },
+            {
+                "pdb_code": "1m05",
+                "resolution": "1.90"
+            }
+        ]
+    },
+    "hla_a_02_01_alwgpdpaaa": {
+        "allele": "hla_a_02_01",
+        "peptide": "ALWGPDPAAA",
+        "holo": [
+            {
+                "pdb_code": "3utt",
+                "resolution": "2.60"
+            },
+            {
+                "pdb_code": "3uts",
+                "resolution": "2.71"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3utq",
+                "resolution": "1.67"
+            }
+        ]
+    },
+    "hla_a_02_01_llfgfpvyv": {
+        "allele": "hla_a_02_01",
+        "peptide": "LLFGFPVYV",
+        "holo": [
+            {
+                "pdb_code": "3qfj",
+                "resolution": "2.29"
+            },
+            {
+                "pdb_code": "3d39",
+                "resolution": "2.81"
+            },
+            {
+                "pdb_code": "3d3v",
+                "resolution": "2.80"
+            }
+        ],
+        "apo": []
+    },
+    "h2_kb_wiyvyrpmgcggs": {
+        "allele": "h2_kb",
+        "peptide": "WIYVYRPMGCGGS",
+        "holo": [
+            {
+                "pdb_code": "3rgv",
+                "resolution": "2.90"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_lgygfvnyi": {
+        "allele": "hla_a_02_01",
+        "peptide": "LGYGFVNYI",
+        "holo": [
+            {
+                "pdb_code": "3pwp",
+                "resolution": "2.69"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3pwl",
+                "resolution": "1.65"
+            }
+        ]
+    },
+    "hla_a_02_01_glctlvaml": {
+        "allele": "hla_a_02_01",
+        "peptide": "GLCTLVAML",
+        "holo": [
+            {
+                "pdb_code": "3o4l",
+                "resolution": "2.54"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3mre",
+                "resolution": "1.10"
+            }
+        ]
+    },
+    "hla_b_35_01_hpvgeadyfey": {
+        "allele": "hla_b_35_01",
+        "peptide": "HPVGEADYFEY",
+        "holo": [
+            {
+                "pdb_code": "3mv8",
+                "resolution": "2.10"
+            },
+            {
+                "pdb_code": "3mv7",
+                "resolution": "2.00"
+            },
+            {
+                "pdb_code": "3mv9",
+                "resolution": "2.70"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "2fz3",
+                "resolution": "1.90"
+            },
+            {
+                "pdb_code": "2fyy",
+                "resolution": "1.50"
+            }
+        ]
+    },
+    "hla_b_35_01_lpeplpqgqltay": {
+        "allele": "hla_b_35_01",
+        "peptide": "LPEPLPQGQLTAY",
+        "holo": [
+            {
+                "pdb_code": "3kxf",
+                "resolution": "3.10"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3vfp",
+                "resolution": "1.85"
+            },
+            {
+                "pdb_code": "3vfn",
+                "resolution": "1.50"
+            },
+            {
+                "pdb_code": "3vfo",
+                "resolution": "1.70"
+            },
+            {
+                "pdb_code": "3vfm",
+                "resolution": "1.90"
+            },
+            {
+                "pdb_code": "3kww",
+                "resolution": "2.18"
+            },
+            {
+                "pdb_code": "1zhk",
+                "resolution": "1.60"
+            },
+            {
+                "pdb_code": "1zhl",
+                "resolution": "1.50"
+            }
+        ]
+    },
+    "hla_a_02_01_mlwgylqyv": {
+        "allele": "hla_a_02_01",
+        "peptide": "MLWGYLQYV",
+        "holo": [
+            {
+                "pdb_code": "3h9s",
+                "resolution": "2.70"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3h7b",
+                "resolution": "1.88"
+            },
+            {
+                "pdb_code": "3h9h",
+                "resolution": "2.00"
+            }
+        ]
+    },
+    "hla_b_44_05_eeylkawtf": {
+        "allele": "hla_b_44_05",
+        "peptide": "EEYLKAWTF",
+        "holo": [
+            {
+                "pdb_code": "3kpr",
+                "resolution": "2.60"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3kpo",
+                "resolution": "2.30"
+            },
+            {
+                "pdb_code": "3kpm",
+                "resolution": "1.60"
+            },
+            {
+                "pdb_code": "3kpq",
+                "resolution": "1.84"
+            }
+        ]
+    },
+    "hla_b_44_05_eeylqafty": {
+        "allele": "hla_b_44_05",
+        "peptide": "EEYLQAFTY",
+        "holo": [
+            {
+                "pdb_code": "3kps",
+                "resolution": "2.70"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3kpn",
+                "resolution": "2.00"
+            },
+            {
+                "pdb_code": "3kpl",
+                "resolution": "1.96"
+            },
+            {
+                "pdb_code": "3kpp",
+                "resolution": "1.90"
+            }
+        ]
+    },
+    "hla_b_44_05_eenlldfvrf": {
+        "allele": "hla_b_44_05",
+        "peptide": "EENLLDFVRF",
+        "holo": [
+            {
+                "pdb_code": "3dxa",
+                "resolution": "3.50"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "3dx6",
+                "resolution": "1.70"
+            },
+            {
+                "pdb_code": "3dx7",
+                "resolution": "1.60"
+            },
+            {
+                "pdb_code": "3dx8",
+                "resolution": "2.10"
+            }
+        ]
+    },
+    "hla_a_02_01_alwgffpvl": {
+        "allele": "hla_a_02_01",
+        "peptide": "ALWGFFPVL",
+        "holo": [
+            {
+                "pdb_code": "2j8u",
+                "resolution": "2.88"
+            },
+            {
+                "pdb_code": "2jcc",
+                "resolution": "2.50"
+            },
+            {
+                "pdb_code": "2uwe",
+                "resolution": "2.40"
+            },
+            {
+                "pdb_code": "1lp9",
+                "resolution": "2.00"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "1b0g",
+                "resolution": "2.50"
+            }
+        ]
+    },
+    "hla_a_02_01_sllmwitqc": {
+        "allele": "hla_a_02_01",
+        "peptide": "SLLMWITQC",
+        "holo": [
+            {
+                "pdb_code": "2p5w",
+                "resolution": "2.20"
+            },
+            {
+                "pdb_code": "2pye",
+                "resolution": "2.30"
+            },
+            {
+                "pdb_code": "2p5e",
+                "resolution": "1.89"
+            },
+            {
+                "pdb_code": "2f54",
+                "resolution": "2.70"
+            },
+            {
+                "pdb_code": "2f53",
+                "resolution": "2.10"
+            },
+            {
+                "pdb_code": "2bnr",
+                "resolution": "1.90"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "1s9w",
+                "resolution": "2.20"
+            }
+        ]
+    },
+    "h2_kb_sqyyynsl": {
+        "allele": "h2_kb",
+        "peptide": "SQYYYNSL",
+        "holo": [
+            {
+                "pdb_code": "2ol3",
+                "resolution": "2.90"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "2clv",
+                "resolution": "1.90"
+            }
+        ]
+    },
+    "hla_b_35_01_eplpqgqltay": {
+        "allele": "hla_b_35_01",
+        "peptide": "EPLPQGQLTAY",
+        "holo": [
+            {
+                "pdb_code": "2nx5",
+                "resolution": "2.70"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "2nw3",
+                "resolution": "1.70"
+            },
+            {
+                "pdb_code": "1zsd",
+                "resolution": "1.70"
+            }
+        ]
+    },
+    "hla_a_02_01_llfgkpvyv": {
+        "allele": "hla_a_02_01",
+        "peptide": "LLFGKPVYV",
+        "holo": [
+            {
+                "pdb_code": "2gj6",
+                "resolution": "2.56"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "2git",
+                "resolution": "1.70"
+            }
+        ]
+    },
+    "h2_kb_rgyvyqgl": {
+        "allele": "h2_kb",
+        "peptide": "RGYVYQGL",
+        "holo": [
+            {
+                "pdb_code": "1nam",
+                "resolution": "2.70"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "1kpu",
+                "resolution": "1.50"
+            },
+            {
+                "pdb_code": "1fzm",
+                "resolution": "1.80"
+            },
+            {
+                "pdb_code": "1fzj",
+                "resolution": "1.90"
+            },
+            {
+                "pdb_code": "2vaa",
+                "resolution": "2.30"
+            },
+            {
+                "pdb_code": "2mha",
+                "resolution": "2.50"
+            }
+        ]
+    },
+    "h2_kb_eqykfysv": {
+        "allele": "h2_kb",
+        "peptide": "EQYKFYSV",
+        "holo": [
+            {
+                "pdb_code": "1mwa",
+                "resolution": "2.40"
+            },
+            {
+                "pdb_code": "2ckb",
+                "resolution": "3.00"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "1lek",
+                "resolution": "2.15"
+            },
+            {
+                "pdb_code": "1leg",
+                "resolution": "1.75"
+            }
+        ]
+    },
+    "h2_kb_kvitfidl": {
+        "allele": "h2_kb",
+        "peptide": "KVITFIDL",
+        "holo": [
+            {
+                "pdb_code": "1kj2",
+                "resolution": "2.71"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "1kj3",
+                "resolution": "2.30"
+            }
+        ]
+    },
+    "h2_kb_siyryygl": {
+        "allele": "h2_kb",
+        "peptide": "SIYRYYGL",
+        "holo": [
+            {
+                "pdb_code": "1g6r",
+                "resolution": "2.80"
+            }
+        ],
+        "apo": []
+    },
+    "h2_kb_infdfnti": {
+        "allele": "h2_kb",
+        "peptide": "INFDFNTI",
+        "holo": [
+            {
+                "pdb_code": "1fo0",
+                "resolution": "2.50"
+            }
+        ],
+        "apo": [
+            {
+                "pdb_code": "2clz",
+                "resolution": "1.90"
+            },
+            {
+                "pdb_code": "1nan",
+                "resolution": "2.30"
+            }
+        ]
+    },
+    "hla_a_02_01_llfgypvav": {
+        "allele": "hla_a_02_01",
+        "peptide": "LLFGYPVAV",
+        "holo": [
+            {
+                "pdb_code": "1qsf",
+                "resolution": "2.80"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_llfgypryv": {
+        "allele": "hla_a_02_01",
+        "peptide": "LLFGYPRYV",
+        "holo": [
+            {
+                "pdb_code": "1qse",
+                "resolution": "2.80"
+            }
+        ],
+        "apo": []
+    },
+    "hla_a_02_01_llfgyavyv": {
+        "allele": "hla_a_02_01",
+        "peptide": "LLFGYAVYV",
+        "holo": [
+            {
+                "pdb_code": "1qrn",
+                "resolution": "2.80"
+            }
+        ],
+        "apo": []
+    }
+}
