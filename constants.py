@@ -1,0 +1,1 @@
+BASE_API_URL = "https://api.histo.fyi/v1/sets"
