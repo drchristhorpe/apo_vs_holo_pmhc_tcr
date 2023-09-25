@@ -42,34 +42,36 @@ for complex in structures:
                         break
                     else:
                         print (f"Compare {holo_pdb_code} vs {apo_pdb_code}")
-                        position_rmsds, success, errors = functions.compare_apo_to_holo(apo_pdb_code, holo_pdb_code, 'peptide', len(peptide))
+                        all_atom_rmsds, all_atom_success, all_atom_errors = functions.compare_apo_to_holo(apo_pdb_code, holo_pdb_code, 'peptide', len(peptide), selection='all')
+                        backbone_rmsds, success, errors = functions.compare_apo_to_holo(apo_pdb_code, holo_pdb_code, 'peptide', len(peptide), selection='backbone')
+                        sidechain_rmsds, success, errors = functions.compare_apo_to_holo(apo_pdb_code, holo_pdb_code, 'peptide', len(peptide), selection='sidechain')
 
-                        if success:
-                            print (position_rmsds)
+                        if all_atom_success:
                             comparison_key = f"{apo_pdb_code}_vs_{holo_pdb_code}"
-                            peptide_rmsds[complex][comparison_key] = position_rmsds
+                            peptide_rmsds[complex][comparison_key] = {
+                                'all_atom': all_atom_rmsds,
+                                'backbone': backbone_rmsds,
+                                'sidechain': sidechain_rmsds
+                            }
                             peptide_success = True
                         else:
-                            print (errors)
                             if not complex in peptide_errors:
                                 peptide_errors[complex] = []
                             peptide_errors[complex].append(
                                 {
-                                    'errors': errors,
+                                    'errors': all_atom_errors,
                                     'apo': apo_pdb_code,
                                     'holo': holo_pdb_code
                                 }
                             )
                         
-                        position_rmsds, success, errors = functions.compare_apo_to_holo(apo_pdb_code, holo_pdb_code, 'abd', 180)
+                        position_rmsds, success, errors = functions.compare_apo_to_holo(apo_pdb_code, holo_pdb_code, 'abd', 180, selection='all')
 
                         if success:
-                            print (position_rmsds)
                             comparison_key = f"{apo_pdb_code}_vs_{holo_pdb_code}"
                             abd_rmsds[complex][comparison_key] = position_rmsds
                             abd_success = True
                         else:
-                            print (errors)
                             if not complex in abd_errors:
                                 abd_errors[complex] = []
                             abd_errors[complex].append(
