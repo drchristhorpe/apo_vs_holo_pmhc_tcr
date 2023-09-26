@@ -17,6 +17,9 @@ with open('data/stats.json', 'r') as file:
 
 for structure in structures:
     peptide = structures[structure]['peptide']
+    
+    allele = structures[structure]['allele']
+
 
     if len(peptide) >= 8:
         peptide_api_url = f"{constants.BASE_API_URL}/peptide_sequences/{peptide.lower()}"
@@ -27,18 +30,20 @@ for structure in structures:
 
         for member in members:
             if member['complex_type'] == 'class_i_with_peptide':
-                structures[structure]['apo'].append({'pdb_code':member['pdb_code'], 'resolution':member['resolution']})
+                
+                if member['allele']['alpha']['slug'] == allele:
 
-                print (member['pdb_code'])
-                # Download the PDB file
-                functions.fetch_pdb_file(member['pdb_code'], 'peptide', apo=True)
-                functions.fetch_pdb_file(member['pdb_code'], 'abd', apo=True)
+                    structures[structure]['apo'].append({'pdb_code':member['pdb_code'], 'resolution':member['resolution']})
 
-                apo_structure_count += 1
+                    print (member['pdb_code'])
+                    # Download the PDB file
+                    functions.fetch_pdb_file(member['pdb_code'], 'peptide', apo=True)
+                    functions.fetch_pdb_file(member['pdb_code'], 'abd', apo=True)
 
+                    apo_structure_count += 1
 
-            if structure not in apo_and_holo:
-                apo_and_holo.append(structure)
+                    if structure not in apo_and_holo:
+                        apo_and_holo.append(structure)
 
 
 
